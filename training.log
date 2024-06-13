@@ -1,0 +1,139 @@
+INFO:root:batch i:1, episode_len:14
+INFO:root:KL: 4.678966797655448e-05, LR Multiplier: 1.5, Loss: 4.579529762268066
+INFO:root:batch i:2, episode_len:14
+INFO:root:KL: 5.716184386983514e-05, LR Multiplier: 2.25, Loss: 4.583772659301758
+INFO:root:batch i:3, episode_len:16
+INFO:root:KL: 0.00011454286868683994, LR Multiplier: 3.375, Loss: 4.568693161010742
+INFO:root:batch i:4, episode_len:15
+INFO:root:KL: 0.00012900620640721172, LR Multiplier: 5.0625, Loss: 4.5835137367248535
+INFO:root:batch i:5, episode_len:13
+INFO:root:KL: 0.0002822689129970968, LR Multiplier: 7.59375, Loss: 4.5649094581604
+INFO:root:batch i:6, episode_len:15
+INFO:root:KL: 0.000849936855956912, LR Multiplier: 11.390625, Loss: 4.582648754119873
+INFO:root:batch i:7, episode_len:13
+INFO:root:KL: 0.0012192875146865845, LR Multiplier: 11.390625, Loss: 4.580289840698242
+INFO:root:batch i:8, episode_len:14
+INFO:root:KL: 0.001040276256389916, LR Multiplier: 11.390625, Loss: 4.582039833068848
+INFO:root:batch i:9, episode_len:14
+INFO:root:KL: 0.0014027798315510154, LR Multiplier: 11.390625, Loss: 4.556415557861328
+INFO:root:batch i:10, episode_len:14
+INFO:root:KL: 0.0012950373347848654, LR Multiplier: 11.390625, Loss: 4.572953224182129
+INFO:root:batch i:11, episode_len:14
+INFO:root:KL: 0.0008272854029200971, LR Multiplier: 11.390625, Loss: 4.57460355758667
+INFO:root:batch i:12, episode_len:14
+INFO:root:KL: 0.0011486242292448878, LR Multiplier: 11.390625, Loss: 4.557063102722168
+INFO:root:batch i:13, episode_len:15
+INFO:root:KL: 0.0011608961503952742, LR Multiplier: 11.390625, Loss: 4.554401397705078
+INFO:root:batch i:14, episode_len:15
+INFO:root:KL: 0.0008854949264787138, LR Multiplier: 11.390625, Loss: 4.553634166717529
+INFO:root:batch i:15, episode_len:14
+INFO:root:KL: 0.001266443869099021, LR Multiplier: 11.390625, Loss: 4.563134670257568
+INFO:root:batch i:16, episode_len:13
+INFO:root:KL: 0.0014697208534926176, LR Multiplier: 11.390625, Loss: 4.528534412384033
+INFO:root:batch i:17, episode_len:15
+INFO:root:KL: 0.0013927618274465203, LR Multiplier: 11.390625, Loss: 4.512681484222412
+INFO:root:batch i:18, episode_len:14
+INFO:root:KL: 0.0019878747407346964, LR Multiplier: 11.390625, Loss: 4.498997211456299
+INFO:root:batch i:19, episode_len:14
+INFO:root:KL: 0.003369477577507496, LR Multiplier: 11.390625, Loss: 4.489772796630859
+INFO:root:batch i:20, episode_len:13
+INFO:root:KL: 0.004573040176182985, LR Multiplier: 11.390625, Loss: 4.434340000152588
+INFO:root:current self-play batch: 20
+INFO:root:num_playouts:200, win: 29, lose: 71, tie:0
+INFO:root:batch i:21, episode_len:14
+INFO:root:KL: 0.004318430088460445, LR Multiplier: 11.390625, Loss: 4.421798229217529
+INFO:root:batch i:22, episode_len:14
+INFO:root:KL: 0.002250645076856017, LR Multiplier: 11.390625, Loss: 4.463045597076416
+INFO:root:batch i:23, episode_len:14
+INFO:root:KL: 0.0015117059228941798, LR Multiplier: 11.390625, Loss: 4.43029260635376
+INFO:root:batch i:24, episode_len:14
+INFO:root:KL: 0.0013194786151871085, LR Multiplier: 11.390625, Loss: 4.3869500160217285
+INFO:root:batch i:25, episode_len:14
+INFO:root:KL: 0.0017877393402159214, LR Multiplier: 11.390625, Loss: 4.351784706115723
+INFO:root:batch i:26, episode_len:14
+INFO:root:KL: 0.0014059797395020723, LR Multiplier: 11.390625, Loss: 4.447636604309082
+INFO:root:Training interrupted
+INFO:root:Total training time: 3673.802171945572
+INFO:root:Training interrupted
+INFO:root:Total training time: 77.10332942008972
+INFO:root:batch i:1, episode_len:15
+INFO:root:KL: 4.5988250349182636e-05, LR Multiplier: 1.5, Loss: 4.582061290740967
+INFO:root:batch i:2, episode_len:15
+INFO:root:KL: 6.489617226179689e-05, LR Multiplier: 2.25, Loss: 4.580831527709961
+INFO:root:batch i:3, episode_len:14
+INFO:root:KL: 0.00011619018187047914, LR Multiplier: 3.375, Loss: 4.582374095916748
+INFO:root:batch i:4, episode_len:15
+INFO:root:KL: 0.0001756801939336583, LR Multiplier: 5.0625, Loss: 4.586340427398682
+INFO:root:batch i:5, episode_len:15
+INFO:root:KL: 0.00030246766982600093, LR Multiplier: 7.59375, Loss: 4.4931159019470215
+INFO:root:batch i:6, episode_len:15
+INFO:root:KL: 0.0006723077385686338, LR Multiplier: 11.390625, Loss: 4.587775230407715
+INFO:root:batch i:7, episode_len:15
+INFO:root:KL: 0.001322794472798705, LR Multiplier: 11.390625, Loss: 4.5725579261779785
+INFO:root:Training interrupted
+INFO:root:Total training time: 2701.518542766571
+INFO:root:batch i:1, episode_len:16
+INFO:root:KL: 4.439213080331683e-05, LR Multiplier: 1.5, Loss: 4.582446575164795
+INFO:root:batch i:2, episode_len:15
+INFO:root:KL: 5.1333438022993505e-05, LR Multiplier: 2.25, Loss: 4.58320426940918
+INFO:root:batch i:3, episode_len:14
+INFO:root:KL: 0.00011450751480879262, LR Multiplier: 3.375, Loss: 4.575665473937988
+INFO:root:batch i:4, episode_len:14
+INFO:root:KL: 0.00018117952276952565, LR Multiplier: 5.0625, Loss: 4.578343391418457
+INFO:root:batch i:5, episode_len:15
+INFO:root:KL: 0.0003701075620483607, LR Multiplier: 7.59375, Loss: 4.591999053955078
+INFO:root:batch i:6, episode_len:14
+INFO:root:KL: 0.0005142418667674065, LR Multiplier: 11.390625, Loss: 4.582666873931885
+INFO:root:Training interrupted
+INFO:root:Total training time: 2303.7398121356964
+INFO:root:batch i:1, episode_len:15
+INFO:root:KL: 3.963711060350761e-05, LR Multiplier: 1.5, Loss: 4.581911087036133
+INFO:root:batch i:2, episode_len:16
+INFO:root:KL: 7.180235115811229e-05, LR Multiplier: 2.25, Loss: 4.580683708190918
+INFO:root:batch i:3, episode_len:15
+INFO:root:KL: 0.00013130356092005968, LR Multiplier: 3.375, Loss: 4.581550598144531
+INFO:root:batch i:4, episode_len:14
+INFO:root:KL: 0.00021040681167505682, LR Multiplier: 5.0625, Loss: 4.5788469314575195
+INFO:root:batch i:5, episode_len:14
+INFO:root:KL: 0.00040931717376224697, LR Multiplier: 7.59375, Loss: 4.576268196105957
+INFO:root:batch i:6, episode_len:15
+INFO:root:KL: 0.0006302874535322189, LR Multiplier: 11.390625, Loss: 4.580718040466309
+INFO:root:batch i:7, episode_len:15
+INFO:root:KL: 0.0014839873183518648, LR Multiplier: 11.390625, Loss: 4.575588226318359
+INFO:root:batch i:8, episode_len:15
+INFO:root:KL: 0.0012136332225054502, LR Multiplier: 11.390625, Loss: 4.554457664489746
+INFO:root:batch i:9, episode_len:14
+INFO:root:KL: 0.0014887808356434107, LR Multiplier: 11.390625, Loss: 4.57818603515625
+INFO:root:batch i:10, episode_len:14
+INFO:root:KL: 0.001997860614210367, LR Multiplier: 11.390625, Loss: 4.4704437255859375
+INFO:root:batch i:11, episode_len:14
+INFO:root:KL: 0.0017728698439896107, LR Multiplier: 11.390625, Loss: 4.548558235168457
+INFO:root:batch i:12, episode_len:14
+INFO:root:KL: 0.0019147205166518688, LR Multiplier: 11.390625, Loss: 4.529740333557129
+INFO:root:batch i:13, episode_len:14
+INFO:root:KL: 0.0017101275734603405, LR Multiplier: 11.390625, Loss: 4.515499591827393
+INFO:root:Training interrupted
+INFO:root:Total training time: 19872.831577062607
+INFO:root:batch i:1, episode_len:16
+INFO:root:KL: 4.4564425479620695e-05, LR Multiplier: 1.5, Loss: 4.582216262817383
+INFO:root:Training interrupted
+INFO:root:Total training time: 241.1706612110138
+INFO:root:batch i:1, episode_len:14
+INFO:root:KL: 4.419359174789861e-05, LR Multiplier: 1.5, Loss: 4.581378936767578
+INFO:root:Training interrupted
+INFO:root:Total training time: 142.16351222991943
+INFO:root:Training interrupted
+INFO:root:Total training time: 41.32458686828613
+INFO:root:batch i:1, episode_len:12
+INFO:root:batch i:2, episode_len:15
+INFO:root:KL: 4.876973252976313e-05, LR Multiplier: 1.5, Loss: 4.58064603805542
+INFO:root:batch i:3, episode_len:15
+INFO:root:KL: 7.540512888226658e-05, LR Multiplier: 2.25, Loss: 4.579994201660156
+INFO:root:batch i:4, episode_len:11
+INFO:root:KL: 0.00010211640619672835, LR Multiplier: 3.375, Loss: 4.582152366638184
+INFO:root:batch i:5, episode_len:16
+INFO:root:KL: 0.0001866856327978894, LR Multiplier: 5.0625, Loss: 4.568919658660889
+INFO:root:batch i:6, episode_len:14
+INFO:root:KL: 0.0003465533663984388, LR Multiplier: 7.59375, Loss: 4.5671491622924805
+INFO:root:Training interrupted
+INFO:root:Total training time: 147.9954206943512
